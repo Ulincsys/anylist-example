@@ -7,7 +7,7 @@ it's original type intact, without the need to explicitly cast the return value.
 
 ### TODO
 
-This example currently doesn't support most of the operations provide by a standard linked
+This example currently doesn't support most of the operations provided by a standard linked
 list data structure. Implementation still required:
 * Get by index
 * Delete
